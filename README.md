@@ -1,4 +1,4 @@
-![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/themes/sevenstar/img/banner-bg.gif)
+<!--![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/themes/sevenstar/img/banner-bg.gif)-->
 
 <h1 align="center">Hi 👋, I'm Shubh Ujala</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
