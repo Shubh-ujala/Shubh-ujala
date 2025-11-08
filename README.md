@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh-ujala&label=Profile%20views&color=0e75b6&style=flat" alt="shubh-ujala" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m **Building things**
 
-- 💬 Ask me about **JavaScript,HTML,CSS**
+- 💬 Ask me about **Development**
 
 - 📫 How to reach me **shubhujala.code@gmail.com**
 
