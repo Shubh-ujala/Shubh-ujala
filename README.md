@@ -20,10 +20,9 @@ Building performant, scalable web applications and exploring applied AI tooling.
 
 ## About
 
-I'm a full stack developer with a focus on building production-grade web applications — from real-time systems to secure authentication flows — and a growing interest in GenAI/LLM tooling such as LangChain, LangGraph, and retrieval-augmented generation (RAG). I regularly practice data structures and algorithms, with 400+ problems solved across LeetCode, GeeksforGeeks, and TakeUForward.
+I'm a full stack developer with a focus on building production-grade web applications — from real-time systems to secure authentication flows — and a growing interest in GenAI/LLM tooling such as LangChain, LangGraph, and retrieval-augmented generation (RAG). I regularly practice data structures and algorithms.
 
 - 🧠 Exploring GenAI application development with LangChain, LangGraph, OpenAI & Gemini APIs
-- 🏆 2nd Runner-Up, Inter-College Hackathon (24-hour full-stack build)
 - 📫 Reach me at **shubhujala@gmail.com**
 
 <br/>
