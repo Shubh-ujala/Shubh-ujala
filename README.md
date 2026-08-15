@@ -55,17 +55,6 @@ I'm a full stack developer with a focus on building production-grade web applica
 
 <br/>
 
-## Training & Certifications
-
-| Certification | Issuer | Date |
-|---|---|---|
-| Cloud Infrastructure 2025 — Certified AI Foundation Associate | Oracle | May 2026 |
-| Computational Theory: Language Principle & Finite Automata Theory | Infosys | Aug 2025 |
-| Cloud Computing | NPTEL | Jun 2025 |
-| Computer Communications | Coursera | Nov 2024 |
-| Basics of Data Structures and Algorithms | Certificate Program | Jun–Jul 2025 |
-
-<br/>
 
 ## GitHub Analytics
 
